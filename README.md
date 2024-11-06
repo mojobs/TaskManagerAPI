@@ -1,0 +1,1 @@
+This is a Task Manager API, that as you can guess, manages various operations on the tasks provided to it. It can update Tasks, Create New tasks, Display all tasks currently in database and Delete them if necessary. It was made with  Fast API, Python and lots of love.
